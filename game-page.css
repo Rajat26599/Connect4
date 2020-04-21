@@ -1,5 +1,6 @@
 body {
-  background-color: skyblue;
+  background-image: url("images/lake.jpg");
+  background-size: cover;
 }
 
 .board button {
