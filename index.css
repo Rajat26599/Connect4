@@ -1,6 +1,7 @@
 body {
   text-align: center;
-  background-color: skyblue;
+  background-color: url("images/lake.jpg");
+  background-size: cover;
 }
 
 
